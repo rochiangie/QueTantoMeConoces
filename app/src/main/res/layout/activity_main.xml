@@ -46,5 +46,6 @@
         android:layout_height="wrap_content"
         android:text="Puntaje"
         android:textSize="18sp"
-        android:visibility="gone" />
+        android:layout_marginTop="20dp"
+    android:visibility="visible" />
 </LinearLayout>
