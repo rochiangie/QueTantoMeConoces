@@ -74,8 +74,9 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4:1.7.5")
 
     // Dependencias de depuración y herramientas para Compose
-    debugImplementation("androidx.compose.ui:ui-tooling:1.5.1")
+    debugImplementation("androidx.compose.ui:ui-tooling:1.7.5")
     debugImplementation("androidx.compose.ui:ui-test-manifest:1.5.1")
 
     implementation("androidx.appcompat:appcompat:1.6.1")
+    implementation("com.google.errorprone:error_prone_annotations:2.10.0")
 }

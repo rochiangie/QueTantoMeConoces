@@ -19,3 +19,10 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+# Suppress warning for PlatformTextInputInterceptor
+-dontwarn androidx.compose.ui.platform.PlatformTextInputInterceptor
+
+# Suppress warning for javax.lang.model.element.Modifier
+-dontwarn javax.lang.model.element.Modifier
+
+
