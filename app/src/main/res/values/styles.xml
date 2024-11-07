@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema personalizado que hereda de AppCompat -->
+    <style name="Theme.QueTantoMeConoces" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Aquí puedes personalizar el tema -->
+    </style>
+</resources>
